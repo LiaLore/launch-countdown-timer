@@ -1,5 +1,5 @@
 const count = () => {
-    const endDate = new Date("Sept 29, 2023 04:00:00").getTime();
+    const endDate = new Date("October 10, 2023 04:00:00").getTime();
     const now = new Date().getTime();
     const difference = endDate - now;
     const seconds = 1000;
